@@ -1,0 +1,1 @@
+INSERT INTO CUSTOMER VALUES(1, 'kikavski@spengergasse.at', 'Jan', 'Kikavski','m', sysdate, -1200); INSERT INTO CUSTOMER VALUES(1, 'kikavski@spengergasse.at', 'Jan', 'Kikavski','m', sysdate, 600); INSERT INTO CUSTOMER VALUES(1, 'kikavski@spengergasse.at', 'Jan', 'Kikavski','m', TO_Date('1996/05/17', 'yyyy/mm/dd'), 600);
